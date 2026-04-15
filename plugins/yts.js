@@ -48,7 +48,7 @@ ${formattedResults}
         from,
         {
           image: {
-            url: "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/yts.png?raw=true",
+            url: "https://github.com/sithunprabasha48/PRABASHA-MD/blob/main/Imgee/IMG_20260415_011832_030.png?raw=true",
           },
           caption,
         },
